@@ -6,6 +6,7 @@ Written using a [Semi-Autonomous Production Engine instance](https://github.com/
 
 - 3-body problem: [Link](https://www.youtube.com/shorts/3IXeo3I_Kko)
 - Triangle escape: [Link](https://www.youtube.com/shorts/707H8ApfNKo)
+- Ball vs. ceiling: [Link](https://www.youtube.com/shorts/LFGSVLan5UA)
 
 ## Using Processing Simulations
 
