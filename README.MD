@@ -52,10 +52,10 @@ To use the simulations provided in this repo, follow these steps:
 
 ### 2. Installing dependencies
 
-- To run the simulations, you need to have the following libraries installed: `pygame`, `render`, `opencv-python`, `moviepy`, and `pydub`. You can install these dependencies using pip:
+- To run the simulations, you need to have the following libraries installed: `pygame`, `opencv-python`, `moviepy`, and `pydub`. You can install these dependencies using pip:
 
 ```bash
-pip install pygame render opencv-python moviepy pydub
+pip install pygame opencv-python moviepy pydub
 ```
 
 
