@@ -50,7 +50,7 @@ To use the simulations provided in this repo, follow these steps:
 
 - Clone this repo or download a specific simulation from the `simulations/pygame` folder. Each simulation folder contains the necessary files.
 
-### 2. Installing ependencies
+### 2. Installing dependencies
 
 - To run the simulations, you need to have the following libraries installed: `pygame`, `render`, `opencv-python`, `moviepy`, and `pydub`. You can install these dependencies using pip:
 
